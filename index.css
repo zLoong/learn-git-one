@@ -3,3 +3,7 @@ body{
     font-family: 'MSYH';
     color: #EFEFEF;
 }
+div,h1,h2,ul,li{
+    margin: 0;
+    padding: 0;
+}
