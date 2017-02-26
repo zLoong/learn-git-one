@@ -16,13 +16,18 @@ div,h1,h2,ul,li{
 }
 .header{
     width: 100%;
-    height: 64px;
-    background: red;
+    height: 80px;
+    background: blue;
 }
 .content{
     width: 100%;
     position: absolute;
-    top: 70px;
+    top: 80px;
     bottom: 70px;
     background: green;
+}
+.footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0;
 }
