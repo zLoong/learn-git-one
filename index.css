@@ -29,6 +29,7 @@ div,h1,h2,ul,li{
 .footer{
     width: 100%;
     position: absolute;
-    bottom: 10px;
-    height: 60px;
+    bottom: 0;
+    height: 70px;
+    background: red;
 }
